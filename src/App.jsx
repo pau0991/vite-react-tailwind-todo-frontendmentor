@@ -10,7 +10,7 @@ const App = () => {
                         Todo
                     </h1>
                     <button>
-                        <MoonIcon fill="#000" className="fill-red-800" />
+                        <MoonIcon fill="#000" className="fill-white" />
                     </button>
                 </div>
                 <form className="mt-8 flex items-center gap-4 overflow-hidden rounded-md bg-white px-4 py-4">
